@@ -1,4 +1,4 @@
-# how-can-you-render-and-edit-DOCX-files-in-react-with-syncfusion
+# Render and edit DOCX files in react
 This repository contains an example of how to render and edit DOCX files in React using the Syncfusion DOCX Editor. It showcases rich Word document (DOCX) editing and rendering directly within the browser, entirely free from Microsoft Word or Office interop dependencies.
 
 # How to run the application
